@@ -11,7 +11,7 @@ Directions:
   - Shutdown Wii U and remove SD card
 - Copy 'wafel_payloader.ipx' to `sd:/wiiu/ios_plugin`
 - Copy Aroma CFW to SD card. [Click here for an SD preparation guide](https://wiiu.hacks.guide/aroma/sd-preparation.html) 
-- Download the 'Better SysApps' plugin from the following link: [Better-SysApps](https://github.com/runscr/Better-SysApps/releases))
+- Download the 'Better SysApps' plugin from the following link: [Better-SysApps](https://github.com/runscr/Better-SysApps/releases)
 - Copy 'BetterSysApps.wps' to `sd:/wiiu/environments/aroma/plugins`
 - Download the modified recovery menu from here: [recovery_menu_init-launch-1](https://github.com/runscr/WiiU-Minus-Gamepad/releases/tag/recovery-menu)
 - Copy 'recovery_menu_init-launch-1' to `sd:/recovery_menu`
